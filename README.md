@@ -4,3 +4,4 @@
 https://github.com/dkon0v/Lesson9GB/blob/main/40.py
 
 * Узнать какая максимальная households в зоне минимального значения population.
+https://github.com/dkon0v/Lesson9GB/blob/main/42.py
